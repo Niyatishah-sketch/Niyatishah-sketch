@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Niyati Shah</h1>
 
 <h3 align="center">
-🐍 Aspiring Python Developer • 🎮 Aspiring Game Developer
+🐍 Python Developer in progress • 🎮 Aspiring Game Developer
 </h3>
 
 <p align="center">
@@ -19,12 +19,12 @@
 ```text
 👤 Player Name : Niyati Shah
 🎖️ Class       : Python Explorer
-🎮 Dream        : Game Developer
-⭐ Level        : 03
+🎮 Dream       : Aspiring Game Developer
+⭐ Current Level: 03
 
-XP
-██████░░░░░░░░ 45%
-```
+🎯 Current Mission
+Complete Python • Build Projects • Learn Every Day
+``````
 
 ---
 
@@ -50,23 +50,22 @@ XP
 
 ---
 
-# ⚔️ SKILLS
+# ⚔️ CURRENT SKILLS
 
-| Skill | Progress |
-|--------|----------|
-| 🐍 Python | ███████░░░ 70% |
-| 🔧 Git & GitHub | ██████░░░░ 60% |
-| 💻 VS Code | █████████░ 90% |
-| 🌐 HTML & CSS | ███░░░░░░░ 30% |
-| 🎮 Unity | ░░░░░░░░░░ 0% |
-
+- 🐍 Python
+- 🔧 Git & GitHub
+- 💻 VS Code
+- 🌐 HTML & CSS (Learning)
+- 🎮 Unity (Coming Soon)
+  
 ---
 
 # 🏆 ACHIEVEMENTS
 
-- 🥇 Built a Python Calculator
-- 🥈 Built a Grade Calculator
-- 🚀 Sharing my coding journey on GitHub
+- 🐍 Started my Python development journey(100 days challenge)
+- 💻 Built my first Python projects
+- ☕ Designed a grade calculator 
+- 🚀 Created my GitHub portfolio
 
 ---
 
@@ -102,18 +101,15 @@ XP
 
 ---
 
-# 🎯 NEXT LEVELS
+# 🎯 ROADMAP
 
-```text
-🔓 Level 04 → Object-Oriented Programming
-🔒 Level 05 → Data Structures & Algorithms
-🔒 Level 06 → Full Stack Development
-🔒 Level 07 → Unity Game Development
-🔒 Level 08 → First Internship
-🔒 Level 09 → First Game
-🔒 Level 10 → Professional Game Developer
-```
-
+- 🔓 Master Python
+- 🔓 Learn Object-Oriented Programming
+- 🔒 Learn Data Structures & Algorithms
+- 🔒 Learn Full Stack Development
+- 🔒 Learn Unity
+- 🔒 Build My First Game
+- 🔒 Land My First Internship
 ---
 
 # 💬 FAVORITE QUOTE
